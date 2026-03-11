@@ -2,11 +2,13 @@
 .DS_Store
 .env
 .env.backup
+.docker-compose.yml
 .env.production
 .phpactor.json
 .phpunit.result.cache
+mysql_data/
 /.fleet
-/.idea
+/.ide
 /.nova
 /.phpunit.cache
 /.vscode
